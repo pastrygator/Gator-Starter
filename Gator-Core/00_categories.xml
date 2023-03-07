@@ -1,12 +1,15 @@
 <OverlayData>
+
     <MarkerCategory DisplayName="PastryGator's Example Pack" name="pg">
         <MarkerCategory DisplayName="Open World/Meta Events" name="ow">
             <MarkerCategory DisplayName="Metrica Province" name="mp">
-                <MarkerCategory DisplayName="Squad Markers" name="sq">
-                    <MarkerCategory DisplayName="" name="arrow" iconFile="images/cmdr_arw"/>
-                    <MarkerCategory DisplayName="" name="circle" iconFile="images/cmdr_cir"/>
-                </MarkerCategory>
+                <MarkerCategory DisplayName="Squad Markers" name="sq" iconFile="Data/images/sm_tag.png"/>
+                <MarkerCategory DisplayName="Squad Trail" name="st" texture="Data/images/Trail.png" fadeNear="3000" fadeFar="3500"/>
             </MarkerCategory>
         </MarkerCategory>
-    </MarkerCategory>
+        <MarkerCategory DisplayName="Settings" name="settings">
+            <MarkerCategory DisplayName="Display Helper Information" name="info" iconFile="Data/images/helper.png" alpha="0"/> <!--Set alpha to 0 for live releases-->
+        </MarkerCategory>
+    </MarkerCategory> 
+
 </OverlayData>

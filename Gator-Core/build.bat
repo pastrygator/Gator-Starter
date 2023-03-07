@@ -2,10 +2,10 @@
 :: ex: del ".\Example.taco"
 
 :: deletes existing pack
-del ".\ExamplePack.taco"
+del ".\Pastrygator.taco"
 
 :: uses WinRar to create a zip out of \Data and \YOUR XML
-"%ProgramFiles%\WinRAR\WinRAR.exe" a -afzip -ep1 -ibck -r -y ".\ExamplePack.zip" ".\Data" ".\ExamplePack.xml"
+"%ProgramFiles%\WinRAR\WinRAR.exe" a -afzip -ep1 -ibck -r -y ".\PastryGator.zip" ".\Data" ".\00_categories.xml"
 
 :: renames the zip to taco
-rename "ExamplePack.zip" "ExamplePack.taco"
+rename "PastryGator.zip" "PastryGator.taco"

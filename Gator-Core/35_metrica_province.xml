@@ -1,0 +1,21 @@
+<OverlayData>
+    <POIs>
+
+    <!--Trial Squad Markers-->
+		<POI MapID="35" xpos="-442.256" ypos="44.4637" zpos="-715.88" type="pg.ow.mp.sq" GUID="w0tiLDSja06gmHrUyWjzqg==" iconFile="Data/images/cmdr_arw.png"/>
+		<POI MapID="35" xpos="-379.391" ypos="44.429" zpos="-675.396" type="pg.ow.mp.sq" GUID="A7WTZITFJU2ZzQLzbXCg/w==" iconFile="Data/images/cmdr_cir.png"/>
+		<POI MapID="35" xpos="-344.506" ypos="42.7698" zpos="-600.455" type="pg.ow.mp.sq" GUID="tN5A/jYCm0at+z7vT8uslQ==" iconFile="Data/images/cmdr_hrt.png"/>
+		<POI MapID="35" xpos="-333.777" ypos="42.7256" zpos="-594.247" type="pg.ow.mp.sq" GUID="H7wgHy+sPUmd9ZbJEC4NCg==" iconFile="Data/images/cmdr_sqr.png"/>
+		<POI MapID="35" xpos="-336.041" ypos="42.5796" zpos="-607.609" type="pg.ow.mp.sq" GUID="mg4pjZHzA0+5XaZBkk75/g==" iconFile="Data/images/cmdr_str.png"/>
+
+    <!--Helper Info-->
+    	<POI MapID="35" xpos="-463.861" ypos="44.4162" zpos="-725.507" info="Welcome Teapot to my very brief proof of concept marker pack! Head towards the arrow to get started." triggerrange="10" type="pg.settings.info" alpha="1" GUID="ClDvqMnfeU+KQOka6t09nA=="/> <!--Entrance/Welcome-->
+        <POI MapID="35" xpos="-442.493" ypos="44.4637" zpos="-715.895" info="Here's the first location to place a squad marker. THE MIGHTY ARROW! The markers where the triggers for helper text can be invisible too!" triggerrange="10" type="pg.settings.info" GUID="MNS+gS0sdU6tsqAdyPqqrg=="/> <!--First Dialogue, Arrow-->
+        <POI MapID="35" xpos="-387.795" ypos="44.4264" zpos="-680.376" info="Here's the second location to place a squad marker. These info boxes can be toggled under the settings menu." triggerrange="10" type="pg.settings.info" GUID="w0SGmhuRQ0GtdcBwVImt6A=="/> <!--Second Dialogue, Circle-->
+        <POI MapID="35" xpos="-347.217" ypos="45.2712" zpos="-612.297" info="Here's the last room with three different markers to place. You can press the interact key to copy some information to your clipboard." triggerrange="10" copy-message="Squad Message Copied" copy="NO MATTER WHAT YOU DO, THERE WILL BE CONSEQUENCES." type="pg.settings.info" alpha="1" GUID="ujAq6w5BqEaJ+KMGanfBzQ=="/> <!--Final, Triple Marker-->
+
+    <!--Squad Trail  GUID="XN5/fzccdkOK/EcPvmSfFQ==" -->
+        <Trail type="pg.ow.mp.st" trailData="Data\trails\38_metrica_trail.trl"/>
+
+	</POIs>
+</OverlayData>
