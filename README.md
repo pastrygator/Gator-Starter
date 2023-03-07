@@ -3,7 +3,8 @@
 [Download Latest Release](https://github.com/pastrygator/Gator-Starter/releases/latest/download/PastryGator.Test.taco)
 
 Test Release pack. Includes icons, a trail, info boxes, and copying text to the clipboard to paste in the squad message window.
-Highly suggest using Blish over Taco.
+
+Trail/pack starts at the Soren Draa waypoint in metrica province. [&BEAAAAA=]
 
 # Install Folder
 
