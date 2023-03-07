@@ -1,0 +1,12 @@
+<OverlayData>
+    <MarkerCategory DisplayName="PastryGator's Example Pack" name="pg">
+        <MarkerCategory DisplayName="Open World/Meta Events" name="ow">
+            <MarkerCategory DisplayName="Metrica Province" name="mp">
+                <MarkerCategory DisplayName="Squad Markers" name="sq">
+                    <MarkerCategory DisplayName="" name="arrow" iconFile="images/cmdr_arw"/>
+                    <MarkerCategory DisplayName="" name="circle" iconFile="images/cmdr_cir"/>
+                </MarkerCategory>
+            </MarkerCategory>
+        </MarkerCategory>
+    </MarkerCategory>
+</OverlayData>
