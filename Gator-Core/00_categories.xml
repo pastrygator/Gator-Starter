@@ -7,7 +7,7 @@
                 <MarkerCategory DisplayName="Squad Trail" name="st" texture="Data/images/Trail.png" fadeNear="3000" fadeFar="3500"/>
             </MarkerCategory>
         </MarkerCategory>
-        <MarkerCategory DisplayName="Settings" name="settings">
+        <MarkerCategory DisplayName="Settings" name="settings" isseparator="1">
             <MarkerCategory DisplayName="Display Helper Information" name="info" iconFile="Data/images/helper.png" alpha="0"/> <!--Set alpha to 0 for live releases-->
         </MarkerCategory>
     </MarkerCategory> 
